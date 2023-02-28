@@ -1,0 +1,13 @@
+C:\Users\777\Desktop\C#\Face\Face\bin\Debug\Face.exe.config
+C:\Users\777\Desktop\C#\Face\Face\bin\Debug\Face.exe
+C:\Users\777\Desktop\C#\Face\Face\bin\Debug\Face.pdb
+C:\Users\777\Desktop\C#\Face\Face\bin\Debug\Emgu.CV.xml
+C:\Users\777\Desktop\C#\Face\Face\bin\Debug\Emgu.CV.UI.xml
+C:\Users\777\Desktop\C#\Face\Face\bin\Debug\Emgu.Util.xml
+C:\Users\777\Desktop\C#\Face\Face\obj\Debug\Face.csproj.AssemblyReference.cache
+C:\Users\777\Desktop\C#\Face\Face\obj\Debug\Face.Form1.resources
+C:\Users\777\Desktop\C#\Face\Face\obj\Debug\Face.Properties.Resources.resources
+C:\Users\777\Desktop\C#\Face\Face\obj\Debug\Face.csproj.GenerateResource.cache
+C:\Users\777\Desktop\C#\Face\Face\obj\Debug\Face.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\C#\Face\Face\obj\Debug\Face.exe
+C:\Users\777\Desktop\C#\Face\Face\obj\Debug\Face.pdb
